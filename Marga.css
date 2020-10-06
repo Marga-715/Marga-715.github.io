@@ -1,0 +1,39 @@
+body{
+	background-color:pink;
+}
+h2{
+	color:purple;
+	font-style: italic;
+	font-weight: bold;
+}
+p{
+	color:grey;
+}
+#para1{
+	color: green;
+}
+.otherp{
+	color: yellow;
+}
+div.me{
+	border-width: 1px;
+	border-style: solid;
+	border-bottom-color: gray;
+	border-radius: 5px;
+}
+div.u{	
+	border-width: 1px;
+	border-style: solid;
+	border-bottom-color: gray;
+	border-radius: 5px;
+}
+div.we{	border-width: 1px;
+	border-style: solid;
+	border-bottom-color: gray;
+	border-radius: 5px;
+}
+div.you{	border-width: 1px;
+	border-style: solid;
+	border-bottom-color: gray;
+	border-radius: 5px;
+}
