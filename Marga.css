@@ -2,21 +2,21 @@ body{
 	background-image:url(1594907708030.jpeg);
 }
 h2{
-	color:purple;
+	color:#BBFF66;
 	font-style: italic;
 	font-weight: bold;
 }
 h3{
-	color:white;
+	color:#FFEE99;
 }
 p{
-	color:grey;
+	color:#33CCFF;
 }
 #para1{
-	color: green;
+	color: #FFFF00;
 }
 .otherp{
-	color: yellow;
+	color: #CCFF33;
 }
 div.me{
 	border-width: 1px;
